@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+ * COPYRIGHT (c) Nextree Consulting 2015
+ * This software is the proprietary of Nextree Consulting.  
+ * 
+ * @author <a href="mailto:eschoi@nextree.co.kr">Choi, Eunsun</a>
+ * @since 2015. 2. 24.
+-->
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.2.xsd">
+
+    <context:component-scan base-package="namoo.board.dom2.comp.spring" />
+</beans>
