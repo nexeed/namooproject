@@ -10,9 +10,10 @@ package namoo.board.dom1.entity;
 
 import java.util.Date;
 
-import namoo.dom.sharedtype.namevalue.NameValue;
-import namoo.dom.sharedtype.namevalue.NameValueList;
-import namoo.dom.util.numeral.UsidGen;
+import namoo.board.dom1.util.namevalue.NameValue;
+import namoo.board.dom1.util.namevalue.NameValueList;
+import namoo.board.dom1.util.numeral.UsidGen;
+
 
 public class Posting {
     //

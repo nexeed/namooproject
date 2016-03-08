@@ -12,9 +12,9 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import namoo.dom.sharedtype.namevalue.NameValue;
-import namoo.dom.sharedtype.namevalue.NameValueList;
-import namoo.dom.util.numeral.UsidGen;
+import namoo.board.dom1.util.namevalue.NameValue;
+import namoo.board.dom1.util.namevalue.NameValueList;
+import namoo.board.dom1.util.numeral.UsidGen;
 
 public class SocialBoard {
     //
